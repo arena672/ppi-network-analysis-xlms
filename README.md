@@ -42,6 +42,18 @@ As part of this project, cross-linked peptide identification was performed using
 
 This step replicates key aspects of XL-MS based PPI analysis workflows used in research.
 
+## Computational Perspective
+Protein-Protein Interaction (PPI) networks can be modeled as graphs:
+- Proteins -> nodes
+- Interactions -> edges
+
+This allows application of computational techniques such as:
+- Graph analysis (centrality, clustering)
+- Network visualization
+- Machine learning for interaction prediction
+
+Future work includes implementing these using Python libraries such as NetworkX.
+
 ## Current Status
 Work in progress as part of an ongoing research project.
 
