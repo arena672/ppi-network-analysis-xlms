@@ -33,6 +33,15 @@ This project focuses on analyzing protein-protein interactions (PPIs) using cros
 - Performed MGF conversion and database comparison
 - Interpreted results under faculty guidance
 
+## Practical Implementation
+As part of this project, cross-linked peptide identification was performed using Protein Prospector.
+
+- MGF files generated from raw MS data were used as input
+- Database search was performed against Homo sapiens protein database
+- Cross-linked peptides were identified based on scoring and filtering criteria
+
+This step replicates key aspects of XL-MS based PPI analysis workflows used in research.
+
 ## Current Status
 Work in progress as part of an ongoing research project.
 
